@@ -1,16 +1,23 @@
-# mobileprogramming_hw2
+# Tabu Game in Flutter
 
-A new Flutter project.
+It is a game developed in Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+There are 2 teams and each of them try to predict the words in cards. 
+If a team player guesses the word, they get +1 point.
+If the player trying to explain the word, says a forbidden word, they get -1 point.
+If the player passes to another card, they don't get or lose any points.
 
-A few resources to get you started if this is your first Flutter project:
+Team with most guesses wins the game.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Screenshots:
+
+
+
+
+<img width="404" alt="Screen Shot 2022-05-29 at 00 04 28" src="https://user-images.githubusercontent.com/73110402/170843473-3d2185c9-a524-4908-8732-79b5fdaeda0f.png">
+<img width="401" alt="Screen Shot 2022-05-29 at 00 05 03" src="https://user-images.githubusercontent.com/73110402/170843490-6a9be8f9-84c7-465c-ba04-f6a7467bcdf8.png">
+<img width="390" alt="Screen Shot 2022-05-29 at 00 05 28" src="https://user-images.githubusercontent.com/73110402/170843495-a01d0570-3b79-4166-a467-5548d73bdcfb.png">
+<img width="376" alt="Screen Shot 2022-05-28 at 18 27 54" src="https://user-images.githubusercontent.com/73110402/170843499-97f3f526-7bbc-4dc5-ab2c-6ab12a3b4ff2.png">
