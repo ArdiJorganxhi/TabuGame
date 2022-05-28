@@ -4,11 +4,11 @@ It is a game developed in Flutter.
 
 
 There are 2 teams and each of them try to predict the words in cards. 
-If a team player guesses the word, they get +1 point.
+If a team player predicts the word, they get +1 point.
 If the player trying to explain the word, says a forbidden word, they get -1 point.
 If the player passes to another card, they don't get or lose any points.
 
-Team with most guesses wins the game.
+Team with most predicts wins the game.
 
 
 
