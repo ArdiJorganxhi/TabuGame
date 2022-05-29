@@ -1,4 +1,4 @@
-# Tabu Game in Flutter
+# Do you trust your vocabulary? Welcome to Tabu Game!
 
 It is a game developed in Flutter.
 
